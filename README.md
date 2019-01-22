@@ -21,4 +21,4 @@ Entonces cuando un usuario comun se ubique en un tipo de producto de los antes m
 
 Ahora el usuario administrador podra realizar un inventario completo sobre su negocio las siguientes operaciones que podra realizar un usuario administrador son:
 
-  *Agregar un producto:
+  *Agregar un producto:Cuando nuestro usuario dese agregar un producto pirmer
