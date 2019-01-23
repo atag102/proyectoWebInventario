@@ -1,4 +1,4 @@
-# proyectoWebInventario
+# proyectoWebInventario                                                                                                                 Este enunciado puede sufrir modificaciones
 Nuestro cliente quiere que se cree una pagina web en la cual se puedan registrar usuarios comunes y que exista un solo usuario administrador (el cual es nuestro cliente).Cuando el usuario comun intente registrarse en el sistema este le pedira que llene el formulario con los siguientes datos :
 
 *Nombre                                                                                                                                   
@@ -28,7 +28,17 @@ Ahora el usuario administrador podra realizar un inventario completo sobre su ne
          
 1)Descripción.                                                                                                                 
 2)Peso.                                                                                                                         
-3)Marca.                                                                                                                       
+3)Marca.                                                                                                                      
 4)Color del tinte.                                                                                                                      5)RIF                                                                                                                                    6)Tipo de producto                                                                                                                      7)Cantidad.                                                                                                                              8)Costo.                                                                                                                                9)Precio venta.                                                                                                                          10)Distribuidora.                                                                                                                        11)Numero del tinte.
          
-   *Vender producto:
+*Vender producto:A la hora que un usuario quiere comprar uno o varios producto se tendra que llenar el siguiente
+forlmulario:                                                                                                                                                                                                                                                                 1)RIF.                                                                                                                                   2)Cantidad a vender.                                                                                                                     3)precio unitario.                                                                                                                       
+4)IVA.                                                                                                                                   
+5)Precio total a vender                                                                                                                                                                                                                                                         El usuario deberia se capaz de agregar varios articulos de diferentes tipos cuando se esta vendiendo.                                                                                                                                                                            *Buscar producto:En el momento que el usuario acceda a esta seccion se le pedira como se realizara la busqueda del producto si sera por RIF,descripcion,Marca,Distribuidora,Numero de tinte o color del tinte despues de definir el modo de busqueda este realizar su busqueda y listara todos los diferentes resultados que se consiguieron.
+
+----------------------------------------------------------------------------------------------------------------------------------------Herramientas a utilizar para este proyecto:
+
+  *El framwork AngularJS
+  *Python
+  *MySql o mongoDb
+----------------------------------------------------------------------------------------------------------------------------------------
